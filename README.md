@@ -1,4 +1,4 @@
-git remote add origin https://github.com/DEIN_BENUTZERNAME/DEIN_REPO.git
+git remote add origin https://github.com/DNLBassEvents/DEIN_REPO.git
 git push -u origin main
 
 
